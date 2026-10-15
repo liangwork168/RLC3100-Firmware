@@ -1,3 +1,7 @@
+
+<img src="Images/7.png" width="650" alt="RLC3100 Smart LCR Tweezers">
+
+
 ## 使用说明书 / User Manuals
 
 **中文说明书：** [下载 RLC3100 中文使用说明书](Manual/RLC3100_User_Manual_CN_V1_1.pdf)
