@@ -1,5 +1,5 @@
 
-<img src="Images/7.png" width="350" alt="RLC3100 Smart LCR Tweezers">
+<img src="Images/7.png" width="200" alt="RLC3100 Smart LCR Tweezers">
 
 
 ## 使用说明书 / User Manuals
